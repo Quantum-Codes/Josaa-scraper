@@ -1,4 +1,0 @@
-National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	936	5164
-National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	2903	6687
-National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	176	1509
-National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	1701	2086
