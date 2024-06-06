@@ -1,0 +1,40 @@
+National Institute of Technology, Kurukshetra	Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3543	11963
+National Institute of Technology, Kurukshetra	Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	14728	15687
+National Institute of Technology, Kurukshetra	Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7643	9237
+National Institute of Technology, Kurukshetra	Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12317	12337
+National Institute of Technology, Kurukshetra	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15122	40848
+National Institute of Technology, Kurukshetra	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44497	52747
+National Institute of Technology, Kurukshetra	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18358	38155
+National Institute of Technology, Kurukshetra	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35910	51059
+National Institute of Technology, Kurukshetra	Computer Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3570	9959
+National Institute of Technology, Kurukshetra	Computer Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	7891	14551
+National Institute of Technology, Kurukshetra	Computer Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4503	7401
+National Institute of Technology, Kurukshetra	Computer Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	8320	11172
+National Institute of Technology, Kurukshetra	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16684	22813
+National Institute of Technology, Kurukshetra	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23306	28381
+National Institute of Technology, Kurukshetra	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15171	17918
+National Institute of Technology, Kurukshetra	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	20903	25499
+National Institute of Technology, Kurukshetra	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	13369	16530
+National Institute of Technology, Kurukshetra	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	18632	23402
+National Institute of Technology, Kurukshetra	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9648	13145
+National Institute of Technology, Kurukshetra	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	16688	18992
+National Institute of Technology, Kurukshetra	Industrial Internet of Things (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15774	20932
+National Institute of Technology, Kurukshetra	Industrial Internet of Things (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23413	23413
+National Institute of Technology, Kurukshetra	Industrial Internet of Things (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9809	17041
+National Institute of Technology, Kurukshetra	Industrial Internet of Things (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21977	25934
+National Institute of Technology, Kurukshetra	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10411	13615
+National Institute of Technology, Kurukshetra	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	14608	17550
+National Institute of Technology, Kurukshetra	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7454	9517
+National Institute of Technology, Kurukshetra	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	11892	15241
+National Institute of Technology, Kurukshetra	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	12515	14427
+National Institute of Technology, Kurukshetra	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	18208	19950
+National Institute of Technology, Kurukshetra	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8271	10484
+National Institute of Technology, Kurukshetra	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12596	14686
+National Institute of Technology, Kurukshetra	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	18368	29353
+National Institute of Technology, Kurukshetra	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29471	38994
+National Institute of Technology, Kurukshetra	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	17687	25489
+National Institute of Technology, Kurukshetra	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36313	39049
+National Institute of Technology, Kurukshetra	Production and Industrial Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	37504	45351
+National Institute of Technology, Kurukshetra	Production and Industrial Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	40518	45362
+National Institute of Technology, Kurukshetra	Production and Industrial Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	38249	42295
+National Institute of Technology, Kurukshetra	Production and Industrial Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	47387	47874

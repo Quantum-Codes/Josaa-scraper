@@ -1,0 +1,40 @@
+Indian Institute of Engineering Science and Technology, Shibpur	Aerospace Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	29618	33167
+Indian Institute of Engineering Science and Technology, Shibpur	Aerospace Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29734	40459
+Indian Institute of Engineering Science and Technology, Shibpur	Aerospace Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14870	23280
+Indian Institute of Engineering Science and Technology, Shibpur	Aerospace Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	26488	33057
+Indian Institute of Engineering Science and Technology, Shibpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	636	798
+Indian Institute of Engineering Science and Technology, Shibpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	555	555
+Indian Institute of Engineering Science and Technology, Shibpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	647	838
+Indian Institute of Engineering Science and Technology, Shibpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	363	363
+Indian Institute of Engineering Science and Technology, Shibpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22921	49928
+Indian Institute of Engineering Science and Technology, Shibpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	38788	50868
+Indian Institute of Engineering Science and Technology, Shibpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	41996	52036
+Indian Institute of Engineering Science and Technology, Shibpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	50990	59950
+Indian Institute of Engineering Science and Technology, Shibpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	4377	11666
+Indian Institute of Engineering Science and Technology, Shibpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	6165	9770
+Indian Institute of Engineering Science and Technology, Shibpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8043	13711
+Indian Institute of Engineering Science and Technology, Shibpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	13541	20059
+Indian Institute of Engineering Science and Technology, Shibpur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16797	23153
+Indian Institute of Engineering Science and Technology, Shibpur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23708	30365
+Indian Institute of Engineering Science and Technology, Shibpur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22661	28582
+Indian Institute of Engineering Science and Technology, Shibpur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36158	38414
+Indian Institute of Engineering Science and Technology, Shibpur	Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	13309	18868
+Indian Institute of Engineering Science and Technology, Shibpur	Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	20001	21593
+Indian Institute of Engineering Science and Technology, Shibpur	Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	17614	21207
+Indian Institute of Engineering Science and Technology, Shibpur	Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	28549	29718
+Indian Institute of Engineering Science and Technology, Shibpur	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	12114	18259
+Indian Institute of Engineering Science and Technology, Shibpur	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	16373	20704
+Indian Institute of Engineering Science and Technology, Shibpur	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	13788	16809
+Indian Institute of Engineering Science and Technology, Shibpur	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	22479	28660
+Indian Institute of Engineering Science and Technology, Shibpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19520	29101
+Indian Institute of Engineering Science and Technology, Shibpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	42118	46328
+Indian Institute of Engineering Science and Technology, Shibpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	26554	37579
+Indian Institute of Engineering Science and Technology, Shibpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39123	49517
+Indian Institute of Engineering Science and Technology, Shibpur	Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23675	48023
+Indian Institute of Engineering Science and Technology, Shibpur	Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	46840	51844
+Indian Institute of Engineering Science and Technology, Shibpur	Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44874	51002
+Indian Institute of Engineering Science and Technology, Shibpur	Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57855	60298
+Indian Institute of Engineering Science and Technology, Shibpur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	47749	53265
+Indian Institute of Engineering Science and Technology, Shibpur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	53633	55513
+Indian Institute of Engineering Science and Technology, Shibpur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	46278	54788
+Indian Institute of Engineering Science and Technology, Shibpur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	60785	60853

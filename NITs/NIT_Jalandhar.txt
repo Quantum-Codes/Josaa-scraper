@@ -1,0 +1,52 @@
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	65589	83326
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	69997	74920
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	31978	49496
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45366	48593
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	37060	52318
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	43274	49375
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	37066	40417
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39382	45889
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	49373	64114
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	56305	78378
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	33187	44281
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51237	53398
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	8346	16205
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	5952	17071
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9028	11017
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12865	17138
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Data Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16489	18679
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Data Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23231	23370
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Data Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	13020	13373
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Data Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	20271	21233
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	27250	32848
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27444	28767
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19308	22308
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25890	30038
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19682	24092
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	21154	24024
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	13926	15255
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23716	25009
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and VLSI Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19565	26046
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and VLSI Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	26051	26051
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and VLSI Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15807	17582
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Electronics and VLSI Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	26724	26724
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Industrial and Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	52141	67697
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Industrial and Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	48952	60407
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Industrial and Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	36660	48352
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Industrial and Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	56237	57126
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16378	21634
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17580	22472
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11431	13180
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	18312	21588
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	34368	43317
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27359	39603
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24861	33381
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34155	38222
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	39276	47162
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	40381	54648
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	26521	33152
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36772	45565
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Textile Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	67931	88486
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Textile Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	70415	83614
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Textile Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	49617	53354
+Dr. B R Ambedkar National Institute of Technology, Jalandhar	Textile Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52478	59930

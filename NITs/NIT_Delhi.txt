@@ -1,0 +1,24 @@
+National Institute of Technology Delhi	Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	11874	14598
+National Institute of Technology Delhi	Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	21797	21797
+National Institute of Technology Delhi	Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10091	10338
+National Institute of Technology Delhi	Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	13291	13291
+National Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	38511	44293
+National Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44475	44475
+National Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19342	27574
+National Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45964	45964
+National Institute of Technology Delhi	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	4306	13205
+National Institute of Technology Delhi	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	5902	19318
+National Institute of Technology Delhi	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4278	9930
+National Institute of Technology Delhi	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	7626	12698
+National Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22593	27970
+National Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37063	38109
+National Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14507	20642
+National Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25186	27093
+National Institute of Technology Delhi	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17432	21529
+National Institute of Technology Delhi	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	25959	26555
+National Institute of Technology Delhi	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9675	14481
+National Institute of Technology Delhi	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	16744	20064
+National Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	31789	37243
+National Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39500	42783
+National Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	20673	25542
+National Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30029	36967

@@ -1,0 +1,19 @@
+National Institute of Technology Sikkim	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	573994	1005918.0
+National Institute of Technology Sikkim	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	527505	953240
+National Institute of Technology Sikkim	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	51587	55629
+National Institute of Technology Sikkim	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	59977	59977
+National Institute of Technology Sikkim	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	78672	162246
+National Institute of Technology Sikkim	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	182101	405836
+National Institute of Technology Sikkim	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19566	24093
+National Institute of Technology Sikkim	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	29011	34462
+National Institute of Technology Sikkim	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	251666	639272
+National Institute of Technology Sikkim	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	351507	587530
+National Institute of Technology Sikkim	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	35448	40863
+National Institute of Technology Sikkim	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45973	45973
+National Institute of Technology Sikkim	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	174848	220352
+National Institute of Technology Sikkim	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	447701	713531
+National Institute of Technology Sikkim	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	33641	35568
+National Institute of Technology Sikkim	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	40438	40438
+National Institute of Technology Sikkim	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	311356	817562
+National Institute of Technology Sikkim	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44244	49141
+National Institute of Technology Sikkim	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57406	58776

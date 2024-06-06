@@ -1,0 +1,40 @@
+National Institute of Technology Durgapur	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24224	53463
+National Institute of Technology Durgapur	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	47903	53372
+National Institute of Technology Durgapur	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	42668	49399
+National Institute of Technology Durgapur	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	44860	46358
+National Institute of Technology Durgapur	Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	47970	47970
+National Institute of Technology Durgapur	Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	48932	48932
+National Institute of Technology Durgapur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24262	35002
+National Institute of Technology Durgapur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	34639	42097
+National Institute of Technology Durgapur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	32525	36240
+National Institute of Technology Durgapur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30575	40595
+National Institute of Technology Durgapur	Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	40643	40643
+National Institute of Technology Durgapur	Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	32936	32936
+National Institute of Technology Durgapur	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	54835	57957
+National Institute of Technology Durgapur	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Female-only (including Supernumerary)	61909	61909
+National Institute of Technology Durgapur	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	50311	50911
+National Institute of Technology Durgapur	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Female-only (including Supernumerary)	55123	55123
+National Institute of Technology Durgapur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	32787	46723
+National Institute of Technology Durgapur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44984	50455
+National Institute of Technology Durgapur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	27972	42439
+National Institute of Technology Durgapur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	46257	49137
+National Institute of Technology Durgapur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3070	12851
+National Institute of Technology Durgapur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	2136	13339
+National Institute of Technology Durgapur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6848	10070
+National Institute of Technology Durgapur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	9628	13772
+National Institute of Technology Durgapur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16327	22248
+National Institute of Technology Durgapur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	24587	33699
+National Institute of Technology Durgapur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	16330	21383
+National Institute of Technology Durgapur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	26444	32447
+National Institute of Technology Durgapur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	13551	17902
+National Institute of Technology Durgapur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17861	23480
+National Institute of Technology Durgapur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10707	14893
+National Institute of Technology Durgapur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	19985	21056
+National Institute of Technology Durgapur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23314	31028
+National Institute of Technology Durgapur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37874	41428
+National Institute of Technology Durgapur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24386	32121
+National Institute of Technology Durgapur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35964	39284
+National Institute of Technology Durgapur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	40319	48577
+National Institute of Technology Durgapur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	49454	54965
+National Institute of Technology Durgapur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	40669	48099
+National Institute of Technology Durgapur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52348	56482

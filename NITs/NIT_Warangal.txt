@@ -1,0 +1,46 @@
+National Institute of Technology, Warangal	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16309	40209
+National Institute of Technology, Warangal	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23176	23622
+National Institute of Technology, Warangal	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	20284	31192
+National Institute of Technology, Warangal	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25713	27668
+National Institute of Technology, Warangal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19031	27034
+National Institute of Technology, Warangal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	22467	24751
+National Institute of Technology, Warangal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14550	20446
+National Institute of Technology, Warangal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	24056	25938
+National Institute of Technology, Warangal	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	50094	53922
+National Institute of Technology, Warangal	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	25395	41976
+National Institute of Technology, Warangal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22104	32906
+National Institute of Technology, Warangal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	28485	33784
+National Institute of Technology, Warangal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19966	28010
+National Institute of Technology, Warangal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30597	34869
+National Institute of Technology, Warangal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	1894	3115
+National Institute of Technology, Warangal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	760	4530
+National Institute of Technology, Warangal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	889	2413
+National Institute of Technology, Warangal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	3030	3830
+National Institute of Technology, Warangal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	6879	11388
+National Institute of Technology, Warangal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	9985	16368
+National Institute of Technology, Warangal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7121	9265
+National Institute of Technology, Warangal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	11171	12121
+National Institute of Technology, Warangal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	4179	6516
+National Institute of Technology, Warangal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	7141	8290
+National Institute of Technology, Warangal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2776	5814
+National Institute of Technology, Warangal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	3899	8908
+National Institute of Technology, Warangal	Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3309	7103
+National Institute of Technology, Warangal	Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	8868	9011
+National Institute of Technology, Warangal	Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6033	7047
+National Institute of Technology, Warangal	Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	10800	10816
+National Institute of Technology, Warangal	Mathematics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	24842	41781
+National Institute of Technology, Warangal	Mathematics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	27481	29818
+National Institute of Technology, Warangal	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3615	4393
+National Institute of Technology, Warangal	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	6778	6778
+National Institute of Technology, Warangal	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	3672	4106
+National Institute of Technology, Warangal	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	6446	6446
+National Institute of Technology, Warangal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	11397	17718
+National Institute of Technology, Warangal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	21670	25560
+National Institute of Technology, Warangal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10246	15749
+National Institute of Technology, Warangal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21401	25520
+National Institute of Technology, Warangal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24474	40095
+National Institute of Technology, Warangal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	36790	37532
+National Institute of Technology, Warangal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19399	27512
+National Institute of Technology, Warangal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35628	36803
+National Institute of Technology, Warangal	Physics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	45112	52631
+National Institute of Technology, Warangal	Physics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	24390	29722

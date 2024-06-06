@@ -1,0 +1,36 @@
+Motilal Nehru National Institute of Technology Allahabad	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	29171	34258
+Motilal Nehru National Institute of Technology Allahabad	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	33697	44062
+Motilal Nehru National Institute of Technology Allahabad	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25258	35995
+Motilal Nehru National Institute of Technology Allahabad	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42663	43580
+Motilal Nehru National Institute of Technology Allahabad	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17504	21815
+Motilal Nehru National Institute of Technology Allahabad	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23442	24611
+Motilal Nehru National Institute of Technology Allahabad	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22015	24068
+Motilal Nehru National Institute of Technology Allahabad	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25841	32132
+Motilal Nehru National Institute of Technology Allahabad	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	21936	27278
+Motilal Nehru National Institute of Technology Allahabad	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	32537	38467
+Motilal Nehru National Institute of Technology Allahabad	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15460	33065
+Motilal Nehru National Institute of Technology Allahabad	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35394	43955
+Motilal Nehru National Institute of Technology Allahabad	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	1696	5876
+Motilal Nehru National Institute of Technology Allahabad	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	3766	10315
+Motilal Nehru National Institute of Technology Allahabad	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2758	4777
+Motilal Nehru National Institute of Technology Allahabad	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	5016	9937
+Motilal Nehru National Institute of Technology Allahabad	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	9236	11946
+Motilal Nehru National Institute of Technology Allahabad	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17150	19857
+Motilal Nehru National Institute of Technology Allahabad	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9970	12422
+Motilal Nehru National Institute of Technology Allahabad	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	17821	19772
+Motilal Nehru National Institute of Technology Allahabad	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	6038	9137
+Motilal Nehru National Institute of Technology Allahabad	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	8745	16867
+Motilal Nehru National Institute of Technology Allahabad	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	5924	9207
+Motilal Nehru National Institute of Technology Allahabad	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12091	16000
+Motilal Nehru National Institute of Technology Allahabad	Engineering and Computational Mechanics (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10454	12945
+Motilal Nehru National Institute of Technology Allahabad	Engineering and Computational Mechanics (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	22358	22358
+Motilal Nehru National Institute of Technology Allahabad	Engineering and Computational Mechanics (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7531	11754
+Motilal Nehru National Institute of Technology Allahabad	Engineering and Computational Mechanics (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	18117	18117
+Motilal Nehru National Institute of Technology Allahabad	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15059	20112
+Motilal Nehru National Institute of Technology Allahabad	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	21258	29807
+Motilal Nehru National Institute of Technology Allahabad	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15848	21758
+Motilal Nehru National Institute of Technology Allahabad	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	27175	33181
+Motilal Nehru National Institute of Technology Allahabad	Production and Industrial Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24891	30738
+Motilal Nehru National Institute of Technology Allahabad	Production and Industrial Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	42639	44495
+Motilal Nehru National Institute of Technology Allahabad	Production and Industrial Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	28793	34482
+Motilal Nehru National Institute of Technology Allahabad	Production and Industrial Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	41220	41391

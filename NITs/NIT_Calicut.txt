@@ -1,0 +1,44 @@
+National Institute of Technology Calicut	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	60	163
+National Institute of Technology Calicut	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	76	86
+National Institute of Technology Calicut	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	262	347
+National Institute of Technology Calicut	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	97	141
+National Institute of Technology Calicut	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	35222	44304
+National Institute of Technology Calicut	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	43645	45769
+National Institute of Technology Calicut	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	31740	38003
+National Institute of Technology Calicut	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42464	42464
+National Institute of Technology Calicut	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	27319	34186
+National Institute of Technology Calicut	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	24376	36428
+National Institute of Technology Calicut	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	20931	30047
+National Institute of Technology Calicut	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	28432	30004
+National Institute of Technology Calicut	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	28097	45465
+National Institute of Technology Calicut	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	30629	38054
+National Institute of Technology Calicut	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	28635	37216
+National Institute of Technology Calicut	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21701	42868
+National Institute of Technology Calicut	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	2024	10512
+National Institute of Technology Calicut	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	4314	10262
+National Institute of Technology Calicut	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2483	5256
+National Institute of Technology Calicut	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	5958	6850
+National Institute of Technology Calicut	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15234	20628
+National Institute of Technology Calicut	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	15115	21818
+National Institute of Technology Calicut	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9907	14740
+National Institute of Technology Calicut	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	11661	18406
+National Institute of Technology Calicut	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10853	15076
+National Institute of Technology Calicut	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	11096	14668
+National Institute of Technology Calicut	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6857	9358
+National Institute of Technology Calicut	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	10992	11577
+National Institute of Technology Calicut	Engineering Physics (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15140	26910
+National Institute of Technology Calicut	Engineering Physics (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	19162	19162
+National Institute of Technology Calicut	Engineering Physics (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	13545	18337
+National Institute of Technology Calicut	Engineering Physics (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	31260	31260
+National Institute of Technology Calicut	Materials Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	29728	39572
+National Institute of Technology Calicut	Materials Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29552	29552
+National Institute of Technology Calicut	Materials Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	28013	38388
+National Institute of Technology Calicut	Materials Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39009	39009
+National Institute of Technology Calicut	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15430	26786
+National Institute of Technology Calicut	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	24193	33427
+National Institute of Technology Calicut	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15000	22734
+National Institute of Technology Calicut	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23904	32842
+National Institute of Technology Calicut	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	28672	45059
+National Institute of Technology Calicut	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	36557	40025
+National Institute of Technology Calicut	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	32220	36530
+National Institute of Technology Calicut	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45513	47740

@@ -1,0 +1,34 @@
+Sardar Vallabhbhai National Institute of Technology, Surat	Artificial Intelligence (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	8874	14079
+Sardar Vallabhbhai National Institute of Technology, Surat	Artificial Intelligence (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	10755	16340
+Sardar Vallabhbhai National Institute of Technology, Surat	Artificial Intelligence (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7120	10330
+Sardar Vallabhbhai National Institute of Technology, Surat	Artificial Intelligence (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	14322	15164
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	30114	46602
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	35376	56273
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24787	38015
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35966	41117
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	23511	124999
+Sardar Vallabhbhai National Institute of Technology, Surat	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	48706	58313
+Sardar Vallabhbhai National Institute of Technology, Surat	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	18380	55028
+Sardar Vallabhbhai National Institute of Technology, Surat	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	43331	85130
+Sardar Vallabhbhai National Institute of Technology, Surat	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	34479	43794
+Sardar Vallabhbhai National Institute of Technology, Surat	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45717	49981
+Sardar Vallabhbhai National Institute of Technology, Surat	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3892	7957
+Sardar Vallabhbhai National Institute of Technology, Surat	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	4658	11637
+Sardar Vallabhbhai National Institute of Technology, Surat	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	5052	7741
+Sardar Vallabhbhai National Institute of Technology, Surat	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	7119	12195
+Sardar Vallabhbhai National Institute of Technology, Surat	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	11515	29656
+Sardar Vallabhbhai National Institute of Technology, Surat	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27906	34839
+Sardar Vallabhbhai National Institute of Technology, Surat	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	16112	20904
+Sardar Vallabhbhai National Institute of Technology, Surat	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	20210	26642
+Sardar Vallabhbhai National Institute of Technology, Surat	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	8223	19756
+Sardar Vallabhbhai National Institute of Technology, Surat	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	15633	27848
+Sardar Vallabhbhai National Institute of Technology, Surat	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10654	15093
+Sardar Vallabhbhai National Institute of Technology, Surat	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	16618	19919
+Sardar Vallabhbhai National Institute of Technology, Surat	Mathematics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	31876	103770
+Sardar Vallabhbhai National Institute of Technology, Surat	Mathematics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	36483	51576
+Sardar Vallabhbhai National Institute of Technology, Surat	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	20374	39766
+Sardar Vallabhbhai National Institute of Technology, Surat	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39584	63229
+Sardar Vallabhbhai National Institute of Technology, Surat	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19670	30985
+Sardar Vallabhbhai National Institute of Technology, Surat	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	32207	39984
+Sardar Vallabhbhai National Institute of Technology, Surat	Physics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	32190	110373
+Sardar Vallabhbhai National Institute of Technology, Surat	Physics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	33405	52721

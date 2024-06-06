@@ -1,0 +1,36 @@
+Visvesvaraya National Institute of Technology, Nagpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	414	735
+Visvesvaraya National Institute of Technology, Nagpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	377	396
+Visvesvaraya National Institute of Technology, Nagpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	504	691
+Visvesvaraya National Institute of Technology, Nagpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	525	582
+Visvesvaraya National Institute of Technology, Nagpur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22732	34672
+Visvesvaraya National Institute of Technology, Nagpur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	28923	36732
+Visvesvaraya National Institute of Technology, Nagpur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25344	33172
+Visvesvaraya National Institute of Technology, Nagpur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35260	39370
+Visvesvaraya National Institute of Technology, Nagpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	29468	44357
+Visvesvaraya National Institute of Technology, Nagpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	42107	49826
+Visvesvaraya National Institute of Technology, Nagpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	26421	38456
+Visvesvaraya National Institute of Technology, Nagpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	43061	49042
+Visvesvaraya National Institute of Technology, Nagpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	2013	6916
+Visvesvaraya National Institute of Technology, Nagpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	5401	9584
+Visvesvaraya National Institute of Technology, Nagpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4920	7087
+Visvesvaraya National Institute of Technology, Nagpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	8325	10532
+Visvesvaraya National Institute of Technology, Nagpur	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	7822	17627
+Visvesvaraya National Institute of Technology, Nagpur	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	19668	20548
+Visvesvaraya National Institute of Technology, Nagpur	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9363	16931
+Visvesvaraya National Institute of Technology, Nagpur	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	20935	23882
+Visvesvaraya National Institute of Technology, Nagpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	7311	12641
+Visvesvaraya National Institute of Technology, Nagpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	10900	14657
+Visvesvaraya National Institute of Technology, Nagpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8554	12184
+Visvesvaraya National Institute of Technology, Nagpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	11999	16523
+Visvesvaraya National Institute of Technology, Nagpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10632	24608
+Visvesvaraya National Institute of Technology, Nagpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27375	31646
+Visvesvaraya National Institute of Technology, Nagpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18792	25462
+Visvesvaraya National Institute of Technology, Nagpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	35432	36965
+Visvesvaraya National Institute of Technology, Nagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	34720	48403
+Visvesvaraya National Institute of Technology, Nagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44030	60477
+Visvesvaraya National Institute of Technology, Nagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	38275	43133
+Visvesvaraya National Institute of Technology, Nagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	44833	50964
+Visvesvaraya National Institute of Technology, Nagpur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	43611	52243
+Visvesvaraya National Institute of Technology, Nagpur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	49879	60600
+Visvesvaraya National Institute of Technology, Nagpur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44192	48145
+Visvesvaraya National Institute of Technology, Nagpur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	55105	55128

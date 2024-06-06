@@ -1,0 +1,40 @@
+National Institute of Technology, Tiruchirappalli	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	100	367
+National Institute of Technology, Tiruchirappalli	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	53	94
+National Institute of Technology, Tiruchirappalli	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	149	260
+National Institute of Technology, Tiruchirappalli	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	190	190
+National Institute of Technology, Tiruchirappalli	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	12050	20670
+National Institute of Technology, Tiruchirappalli	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27700	30405
+National Institute of Technology, Tiruchirappalli	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11165	15816
+National Institute of Technology, Tiruchirappalli	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	16042	19176
+National Institute of Technology, Tiruchirappalli	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	20492	33703
+National Institute of Technology, Tiruchirappalli	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	35256	42452
+National Institute of Technology, Tiruchirappalli	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	12259	20873
+National Institute of Technology, Tiruchirappalli	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23366	28979
+National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	936	5164
+National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	2903	6687
+National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	176	1509
+National Institute of Technology, Tiruchirappalli	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	1701	2086
+National Institute of Technology, Tiruchirappalli	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	6915	9902
+National Institute of Technology, Tiruchirappalli	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	12625	16754
+National Institute of Technology, Tiruchirappalli	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4668	6726
+National Institute of Technology, Tiruchirappalli	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	8311	11410
+National Institute of Technology, Tiruchirappalli	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	4341	7153
+National Institute of Technology, Tiruchirappalli	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	9666	11662
+National Institute of Technology, Tiruchirappalli	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2049	4642
+National Institute of Technology, Tiruchirappalli	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	4789	6252
+National Institute of Technology, Tiruchirappalli	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	7605	15486
+National Institute of Technology, Tiruchirappalli	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	16985	24886
+National Institute of Technology, Tiruchirappalli	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11099	14240
+National Institute of Technology, Tiruchirappalli	Instrumentation and Control Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	14707	17964
+National Institute of Technology, Tiruchirappalli	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	7166	16238
+National Institute of Technology, Tiruchirappalli	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	20690	31543
+National Institute of Technology, Tiruchirappalli	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4026	10751
+National Institute of Technology, Tiruchirappalli	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	16420	20150
+National Institute of Technology, Tiruchirappalli	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19080	32122
+National Institute of Technology, Tiruchirappalli	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	38375	42239
+National Institute of Technology, Tiruchirappalli	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14909	24678
+National Institute of Technology, Tiruchirappalli	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	22701	29347
+National Institute of Technology, Tiruchirappalli	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16710	26853
+National Institute of Technology, Tiruchirappalli	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	33458	40458
+National Institute of Technology, Tiruchirappalli	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	16671	25958
+National Institute of Technology, Tiruchirappalli	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21081	29531

@@ -1,0 +1,15 @@
+National Institute of Technology Arunachal Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	182340	182340
+National Institute of Technology Arunachal Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	53021	57946
+National Institute of Technology Arunachal Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	63526	63526
+National Institute of Technology Arunachal Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	122963	136432
+National Institute of Technology Arunachal Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25273	29087
+National Institute of Technology Arunachal Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	37961	37961
+National Institute of Technology Arunachal Pradesh	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	148852	161165
+National Institute of Technology Arunachal Pradesh	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	37542	44381
+National Institute of Technology Arunachal Pradesh	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	50899	50899
+National Institute of Technology Arunachal Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	141628	141628
+National Institute of Technology Arunachal Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	29803	38784
+National Institute of Technology Arunachal Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	46973	46973
+National Institute of Technology Arunachal Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	176501	176501
+National Institute of Technology Arunachal Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	45573	49818
+National Institute of Technology Arunachal Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	60078	60078

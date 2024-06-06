@@ -1,0 +1,32 @@
+National Institute of Technology, Andhra Pradesh	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	54285	57872
+National Institute of Technology, Andhra Pradesh	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	59825	59825
+National Institute of Technology, Andhra Pradesh	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	53418	54146
+National Institute of Technology, Andhra Pradesh	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	44929	51515
+National Institute of Technology, Andhra Pradesh	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	44271	50628
+National Institute of Technology, Andhra Pradesh	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44552	50720
+National Institute of Technology, Andhra Pradesh	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	43510	43864
+National Institute of Technology, Andhra Pradesh	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	43813	43813
+National Institute of Technology, Andhra Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	40588	51996
+National Institute of Technology, Andhra Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	38879	47245
+National Institute of Technology, Andhra Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44645	50232
+National Institute of Technology, Andhra Pradesh	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	49330	57229
+National Institute of Technology, Andhra Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	11812	19558
+National Institute of Technology, Andhra Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	12616	19909
+National Institute of Technology, Andhra Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11839	17272
+National Institute of Technology, Andhra Pradesh	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21678	23150
+National Institute of Technology, Andhra Pradesh	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	25005	36848
+National Institute of Technology, Andhra Pradesh	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	31961	37950
+National Institute of Technology, Andhra Pradesh	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25878	33347
+National Institute of Technology, Andhra Pradesh	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34922	38642
+National Institute of Technology, Andhra Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17703	24983
+National Institute of Technology, Andhra Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	23007	28711
+National Institute of Technology, Andhra Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18733	24683
+National Institute of Technology, Andhra Pradesh	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	24870	30453
+National Institute of Technology, Andhra Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	34280	43936
+National Institute of Technology, Andhra Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37348	41062
+National Institute of Technology, Andhra Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	33802	42801
+National Institute of Technology, Andhra Pradesh	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45053	49058
+National Institute of Technology, Andhra Pradesh	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	45812	57822
+National Institute of Technology, Andhra Pradesh	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	57227	57227
+National Institute of Technology, Andhra Pradesh	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	47232	53982
+National Institute of Technology, Andhra Pradesh	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	54486	54486

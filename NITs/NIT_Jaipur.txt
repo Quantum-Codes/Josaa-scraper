@@ -1,0 +1,35 @@
+Malaviya National Institute of Technology Jaipur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	744	2202
+Malaviya National Institute of Technology Jaipur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	581	699
+Malaviya National Institute of Technology Jaipur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	428	565
+Malaviya National Institute of Technology Jaipur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	392	466
+Malaviya National Institute of Technology Jaipur	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	5783	6924
+Malaviya National Institute of Technology Jaipur	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	5026	6408
+Malaviya National Institute of Technology Jaipur	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	7664	7664
+Malaviya National Institute of Technology Jaipur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	8511	30836
+Malaviya National Institute of Technology Jaipur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	25754	33373
+Malaviya National Institute of Technology Jaipur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22184	26958
+Malaviya National Institute of Technology Jaipur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25255	31503
+Malaviya National Institute of Technology Jaipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	14341	32557
+Malaviya National Institute of Technology Jaipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	30183	39444
+Malaviya National Institute of Technology Jaipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18397	34032
+Malaviya National Institute of Technology Jaipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	33882	42145
+Malaviya National Institute of Technology Jaipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	2323	5746
+Malaviya National Institute of Technology Jaipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	2990	7236
+Malaviya National Institute of Technology Jaipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2684	4909
+Malaviya National Institute of Technology Jaipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	5175	7182
+Malaviya National Institute of Technology Jaipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	9596	15660
+Malaviya National Institute of Technology Jaipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17602	21295
+Malaviya National Institute of Technology Jaipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7944	15422
+Malaviya National Institute of Technology Jaipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	18488	21881
+Malaviya National Institute of Technology Jaipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	6566	10112
+Malaviya National Institute of Technology Jaipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	11950	13518
+Malaviya National Institute of Technology Jaipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6828	10168
+Malaviya National Institute of Technology Jaipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	11557	13942
+Malaviya National Institute of Technology Jaipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	15539	23748
+Malaviya National Institute of Technology Jaipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	22678	35572
+Malaviya National Institute of Technology Jaipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14832	22295
+Malaviya National Institute of Technology Jaipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30761	33767
+Malaviya National Institute of Technology Jaipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	31784	38537
+Malaviya National Institute of Technology Jaipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39589	45872
+Malaviya National Institute of Technology Jaipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	35128	39406
+Malaviya National Institute of Technology Jaipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	43637	48672

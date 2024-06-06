@@ -1,0 +1,44 @@
+National Institute of Technology, Srinagar	Chemical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	94049	107655
+National Institute of Technology, Srinagar	Chemical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	140424	158035
+National Institute of Technology, Srinagar	Chemical Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	272473	272473
+National Institute of Technology, Srinagar	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	49795	54693
+National Institute of Technology, Srinagar	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	55558	63530
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	33491	89806
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	72372	123607
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	209869	209869
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Female-only (including Supernumerary)	126549	126549
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	51984	57678
+National Institute of Technology, Srinagar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38194	65451
+National Institute of Technology, Srinagar	Computer Science and Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	15838	36020
+National Institute of Technology, Srinagar	Computer Science and Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	13064	39115
+National Institute of Technology, Srinagar	Computer Science and Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	124061	124061
+National Institute of Technology, Srinagar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	12931	22814
+National Institute of Technology, Srinagar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	29987	33574
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	57321	80061
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	99233	130307
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	215824	215824
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Female-only (including Supernumerary)	292478	292478
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	31874	40467
+National Institute of Technology, Srinagar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42037	48139
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	45308	57230
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	69195	95126
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	207460	207460
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Female-only (including Supernumerary)	251723	251723
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	23540	34057
+National Institute of Technology, Srinagar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39577	41821
+National Institute of Technology, Srinagar	Information Technology (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	36571	48383
+National Institute of Technology, Srinagar	Information Technology (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	42521	69706
+National Institute of Technology, Srinagar	Information Technology (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	134229	134229
+National Institute of Technology, Srinagar	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	23256	27732
+National Institute of Technology, Srinagar	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36213	38981
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	60492	91664
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	94463	151668
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	197632	197632
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Female-only (including Supernumerary)	466226	466226
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	39889	47520
+National Institute of Technology, Srinagar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57004	62571
+National Institute of Technology, Srinagar	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Gender-Neutral	101555	123100
+National Institute of Technology, Srinagar	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	JK	OPEN	Female-only (including Supernumerary)	123545	196327
+National Institute of Technology, Srinagar	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	LA	OPEN	Gender-Neutral	286182	286182
+National Institute of Technology, Srinagar	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	53273	58591
+National Institute of Technology, Srinagar	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	60050	65736

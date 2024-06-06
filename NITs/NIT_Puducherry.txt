@@ -1,0 +1,20 @@
+National Institute of Technology Puducherry	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	186956	225349
+National Institute of Technology Puducherry	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	208784	219803
+National Institute of Technology Puducherry	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	47451	50701
+National Institute of Technology Puducherry	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	46816	54995
+National Institute of Technology Puducherry	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	28295	75175
+National Institute of Technology Puducherry	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	60938	61157
+National Institute of Technology Puducherry	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	12546	17305
+National Institute of Technology Puducherry	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	10207	22103
+National Institute of Technology Puducherry	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	78818	159343
+National Institute of Technology Puducherry	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	135512	158214
+National Institute of Technology Puducherry	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24947	33327
+National Institute of Technology Puducherry	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	27051	36210
+National Institute of Technology Puducherry	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	52167	114625
+National Institute of Technology Puducherry	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	78440	97759
+National Institute of Technology Puducherry	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19643	23819
+National Institute of Technology Puducherry	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	26371	28652
+National Institute of Technology Puducherry	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	90540	183810
+National Institute of Technology Puducherry	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	166409	166967
+National Institute of Technology Puducherry	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	30866	40208
+National Institute of Technology Puducherry	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	47796	49735

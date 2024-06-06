@@ -1,0 +1,40 @@
+Maulana Azad National Institute of Technology Bhopal	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	532	2145
+Maulana Azad National Institute of Technology Bhopal	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	184	1459
+Maulana Azad National Institute of Technology Bhopal	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	522	905
+Maulana Azad National Institute of Technology Bhopal	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	375	638
+Maulana Azad National Institute of Technology Bhopal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	32325	40023
+Maulana Azad National Institute of Technology Bhopal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37537	38755
+Maulana Azad National Institute of Technology Bhopal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	32643	37545
+Maulana Azad National Institute of Technology Bhopal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	33563	42487
+Maulana Azad National Institute of Technology Bhopal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23051	44306
+Maulana Azad National Institute of Technology Bhopal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	50317	55355
+Maulana Azad National Institute of Technology Bhopal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	33535	43903
+Maulana Azad National Institute of Technology Bhopal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51816	53299
+Maulana Azad National Institute of Technology Bhopal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	5180	11148
+Maulana Azad National Institute of Technology Bhopal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	7161	14277
+Maulana Azad National Institute of Technology Bhopal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6409	9370
+Maulana Azad National Institute of Technology Bhopal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12159	16206
+Maulana Azad National Institute of Technology Bhopal	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17331	22711
+Maulana Azad National Institute of Technology Bhopal	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29805	35320
+Maulana Azad National Institute of Technology Bhopal	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15802	21546
+Maulana Azad National Institute of Technology Bhopal	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23458	28708
+Maulana Azad National Institute of Technology Bhopal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	12326	17559
+Maulana Azad National Institute of Technology Bhopal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	19199	24111
+Maulana Azad National Institute of Technology Bhopal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9867	15624
+Maulana Azad National Institute of Technology Bhopal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	17005	23135
+Maulana Azad National Institute of Technology Bhopal	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	45342	49824
+Maulana Azad National Institute of Technology Bhopal	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44136	56552
+Maulana Azad National Institute of Technology Bhopal	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	42282	46555
+Maulana Azad National Institute of Technology Bhopal	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	56284	57662
+Maulana Azad National Institute of Technology Bhopal	Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	12786	18464
+Maulana Azad National Institute of Technology Bhopal	Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	28441	28441
+Maulana Azad National Institute of Technology Bhopal	Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	12369	13855
+Maulana Azad National Institute of Technology Bhopal	Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	22588	22588
+Maulana Azad National Institute of Technology Bhopal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23670	34618
+Maulana Azad National Institute of Technology Bhopal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37578	50332
+Maulana Azad National Institute of Technology Bhopal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24269	33129
+Maulana Azad National Institute of Technology Bhopal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	40134	45006
+Maulana Azad National Institute of Technology Bhopal	Planning (4 Years, Bachelor of Planning)	HS	OPEN	Gender-Neutral	1854	4105
+Maulana Azad National Institute of Technology Bhopal	Planning (4 Years, Bachelor of Planning)	HS	OPEN	Female-only (including Supernumerary)	417	1394
+Maulana Azad National Institute of Technology Bhopal	Planning (4 Years, Bachelor of Planning)	OS	OPEN	Gender-Neutral	120	590
+Maulana Azad National Institute of Technology Bhopal	Planning (4 Years, Bachelor of Planning)	OS	OPEN	Female-only (including Supernumerary)	106	487

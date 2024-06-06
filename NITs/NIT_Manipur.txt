@@ -1,0 +1,20 @@
+National Institute of Technology, Manipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	97608	229695
+National Institute of Technology, Manipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	147975	147975
+National Institute of Technology, Manipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	51762	56593
+National Institute of Technology, Manipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	61087	64760
+National Institute of Technology, Manipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	93261	302425
+National Institute of Technology, Manipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	301315	364827
+National Institute of Technology, Manipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	17658	29644
+National Institute of Technology, Manipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38474	44910
+National Institute of Technology, Manipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	101231	185948
+National Institute of Technology, Manipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	407152	407152
+National Institute of Technology, Manipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44190	47765
+National Institute of Technology, Manipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	53346	53672
+National Institute of Technology, Manipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	341866	431026
+National Institute of Technology, Manipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	457182	749669
+National Institute of Technology, Manipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	32372	37030
+National Institute of Technology, Manipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	46765	49005
+National Institute of Technology, Manipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	254090	606712
+National Institute of Technology, Manipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	157954	667509
+National Institute of Technology, Manipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	46605	52516
+National Institute of Technology, Manipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	58393	64941

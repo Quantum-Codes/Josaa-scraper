@@ -1,0 +1,23 @@
+National Institute of Technology, Mizoram	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	339831	678406
+National Institute of Technology, Mizoram	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	234729	294734
+National Institute of Technology, Mizoram	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	43318	58131
+National Institute of Technology, Mizoram	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	65925	65980
+National Institute of Technology, Mizoram	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	284473	444859
+National Institute of Technology, Mizoram	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	316348	516872
+National Institute of Technology, Mizoram	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	28938	31336
+National Institute of Technology, Mizoram	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38283	38562
+National Institute of Technology, Mizoram	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	661107	661107
+National Institute of Technology, Mizoram	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	560594	560594
+National Institute of Technology, Mizoram	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	45091	48542
+National Institute of Technology, Mizoram	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	54238	54615
+National Institute of Technology, Mizoram	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	636899	809789
+National Institute of Technology, Mizoram	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	589620	589620
+National Institute of Technology, Mizoram	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	39005	42287
+National Institute of Technology, Mizoram	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	49164	49164
+National Institute of Technology, Mizoram	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	834722	834722
+National Institute of Technology, Mizoram	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	21955	37134
+National Institute of Technology, Mizoram	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	48567	48567
+National Institute of Technology, Mizoram	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	636017	636017
+National Institute of Technology, Mizoram	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	659805	1014892.0
+National Institute of Technology, Mizoram	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	51403	53050
+National Institute of Technology, Mizoram	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	63458	64571

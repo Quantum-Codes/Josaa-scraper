@@ -1,0 +1,48 @@
+National Institute of Technology Raipur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	771	1726
+National Institute of Technology Raipur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	773	773
+National Institute of Technology Raipur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	758	932
+National Institute of Technology Raipur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	484	721
+National Institute of Technology Raipur	Bio Medical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	69419	96960
+National Institute of Technology Raipur	Bio Medical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	89424	92727
+National Institute of Technology Raipur	Bio Medical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	48738	56271
+National Institute of Technology Raipur	Bio Medical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57446	58536
+National Institute of Technology Raipur	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	77830	88031
+National Institute of Technology Raipur	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	64597	84329
+National Institute of Technology Raipur	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	42408	53188
+National Institute of Technology Raipur	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52596	57903
+National Institute of Technology Raipur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	52467	62552
+National Institute of Technology Raipur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	50446	56060
+National Institute of Technology Raipur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	40784	42804
+National Institute of Technology Raipur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45678	49837
+National Institute of Technology Raipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17641	63649
+National Institute of Technology Raipur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	65368	74603
+National Institute of Technology Raipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	41308	47480
+National Institute of Technology Raipur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	53023	55739
+National Institute of Technology Raipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	14610	22413
+National Institute of Technology Raipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	15064	30019
+National Institute of Technology Raipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10110	12773
+National Institute of Technology Raipur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	15109	18853
+National Institute of Technology Raipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	33561	44603
+National Institute of Technology Raipur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	46985	48690
+National Institute of Technology Raipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	21190	27264
+National Institute of Technology Raipur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30371	34712
+National Institute of Technology Raipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22169	38657
+National Institute of Technology Raipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	41985	46547
+National Institute of Technology Raipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	16419	19191
+National Institute of Technology Raipur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	22740	28560
+National Institute of Technology Raipur	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19019	32025
+National Institute of Technology Raipur	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	27631	44324
+National Institute of Technology Raipur	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11059	14763
+National Institute of Technology Raipur	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	18967	21835
+National Institute of Technology Raipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	27029	52282
+National Institute of Technology Raipur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44881	57665
+National Institute of Technology Raipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	29833	37689
+National Institute of Technology Raipur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42498	46396
+National Institute of Technology Raipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	56109	75074
+National Institute of Technology Raipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	54832	84303
+National Institute of Technology Raipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	43108	52043
+National Institute of Technology Raipur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	55880	57637
+National Institute of Technology Raipur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	62706	83122
+National Institute of Technology Raipur	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	91663	104879
+National Institute of Technology Raipur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44378	54340
+National Institute of Technology Raipur	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	48547	62396

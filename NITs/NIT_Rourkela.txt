@@ -1,0 +1,88 @@
+National Institute of Technology, Rourkela	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	988	1435
+National Institute of Technology, Rourkela	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	531	531
+National Institute of Technology, Rourkela	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	273	490
+National Institute of Technology, Rourkela	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	379	379
+National Institute of Technology, Rourkela	Bio Medical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	42817	55020
+National Institute of Technology, Rourkela	Bio Medical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	40748	64085
+National Institute of Technology, Rourkela	Bio Medical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	35011	38477
+National Institute of Technology, Rourkela	Bio Medical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42365	44640
+National Institute of Technology, Rourkela	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	45223	48998
+National Institute of Technology, Rourkela	Bio Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	49161	56742
+National Institute of Technology, Rourkela	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25792	34235
+National Institute of Technology, Rourkela	Bio Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	32598	35150
+National Institute of Technology, Rourkela	Ceramic Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	37886	47645
+National Institute of Technology, Rourkela	Ceramic Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	57915	57915
+National Institute of Technology, Rourkela	Ceramic Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	38670	42865
+National Institute of Technology, Rourkela	Ceramic Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	44807	52960
+National Institute of Technology, Rourkela	Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	56312	58204
+National Institute of Technology, Rourkela	Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	62366	62366
+National Institute of Technology, Rourkela	Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	47347	47672
+National Institute of Technology, Rourkela	Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	54578	54578
+National Institute of Technology, Rourkela	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23595	28064
+National Institute of Technology, Rourkela	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	30008	37805
+National Institute of Technology, Rourkela	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18100	21037
+National Institute of Technology, Rourkela	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25460	28087
+National Institute of Technology, Rourkela	Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	29533	40601
+National Institute of Technology, Rourkela	Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	25413	26057
+National Institute of Technology, Rourkela	Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	26005	26005
+National Institute of Technology, Rourkela	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	58797	68190
+National Institute of Technology, Rourkela	Chemistry (5 Years, Integrated Master of Science)	HS	OPEN	Female-only (including Supernumerary)	75882	75882
+National Institute of Technology, Rourkela	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	41008	49151
+National Institute of Technology, Rourkela	Chemistry (5 Years, Integrated Master of Science)	OS	OPEN	Female-only (including Supernumerary)	48444	48444
+National Institute of Technology, Rourkela	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	18505	34933
+National Institute of Technology, Rourkela	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39329	48799
+National Institute of Technology, Rourkela	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	23078	29370
+National Institute of Technology, Rourkela	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36136	38497
+National Institute of Technology, Rourkela	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	1975	8282
+National Institute of Technology, Rourkela	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	4494	11082
+National Institute of Technology, Rourkela	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2529	3786
+National Institute of Technology, Rourkela	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	4153	5405
+National Institute of Technology, Rourkela	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	9943	16085
+National Institute of Technology, Rourkela	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	18378	20524
+National Institute of Technology, Rourkela	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8960	12910
+National Institute of Technology, Rourkela	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	13824	18214
+National Institute of Technology, Rourkela	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	8596	9931
+National Institute of Technology, Rourkela	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	11758	13067
+National Institute of Technology, Rourkela	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	4801	6770
+National Institute of Technology, Rourkela	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	10822	11351
+National Institute of Technology, Rourkela	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10108	12579
+National Institute of Technology, Rourkela	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17465	17607
+National Institute of Technology, Rourkela	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	10715	12955
+National Institute of Technology, Rourkela	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	14268	16766
+National Institute of Technology, Rourkela	Food Process Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	52207	57648
+National Institute of Technology, Rourkela	Food Process Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	64565	64565
+National Institute of Technology, Rourkela	Food Process Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	39819	45340
+National Institute of Technology, Rourkela	Food Process Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	43662	44927
+National Institute of Technology, Rourkela	Industrial Design (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	38232	44638
+National Institute of Technology, Rourkela	Industrial Design (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	37807	54006
+National Institute of Technology, Rourkela	Industrial Design (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	29391	32085
+National Institute of Technology, Rourkela	Industrial Design (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34193	42389
+National Institute of Technology, Rourkela	Life Science (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	62269	76482
+National Institute of Technology, Rourkela	Life Science (5 Years, Integrated Master of Science)	HS	OPEN	Female-only (including Supernumerary)	77332	77332
+National Institute of Technology, Rourkela	Life Science (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	44213	49862
+National Institute of Technology, Rourkela	Life Science (5 Years, Integrated Master of Science)	OS	OPEN	Female-only (including Supernumerary)	51901	51901
+National Institute of Technology, Rourkela	Mathematics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	32833	46747
+National Institute of Technology, Rourkela	Mathematics (5 Years, Integrated Master of Science)	HS	OPEN	Female-only (including Supernumerary)	69270	69270
+National Institute of Technology, Rourkela	Mathematics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	12749	33880
+National Institute of Technology, Rourkela	Mathematics (5 Years, Integrated Master of Science)	OS	OPEN	Female-only (including Supernumerary)	29642	29642
+National Institute of Technology, Rourkela	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16232	22267
+National Institute of Technology, Rourkela	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	20824	34764
+National Institute of Technology, Rourkela	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14732	17907
+National Institute of Technology, Rourkela	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	18831	23658
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	23139	36888
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44245	45691
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24289	33055
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38175	38175
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	48513	50652
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	32143	38512
+National Institute of Technology, Rourkela	Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	43727	43727
+National Institute of Technology, Rourkela	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	32858	45122
+National Institute of Technology, Rourkela	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	56384	56384
+National Institute of Technology, Rourkela	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	29902	39954
+National Institute of Technology, Rourkela	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52792	52792
+National Institute of Technology, Rourkela	Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	47626	50658
+National Institute of Technology, Rourkela	Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	35081	39670
+National Institute of Technology, Rourkela	Physics (5 Years, Integrated Master of Science)	HS	OPEN	Gender-Neutral	36098	50532
+National Institute of Technology, Rourkela	Physics (5 Years, Integrated Master of Science)	HS	OPEN	Female-only (including Supernumerary)	68660	68660
+National Institute of Technology, Rourkela	Physics (5 Years, Integrated Master of Science)	OS	OPEN	Gender-Neutral	26971	33330
+National Institute of Technology, Rourkela	Physics (5 Years, Integrated Master of Science)	OS	OPEN	Female-only (including Supernumerary)	42759	42759

@@ -1,0 +1,24 @@
+National Institute of Technology, Silchar	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	19868	73835
+National Institute of Technology, Silchar	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	48299	69117
+National Institute of Technology, Silchar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	34523	46505
+National Institute of Technology, Silchar	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51952	56157
+National Institute of Technology, Silchar	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10597	24876
+National Institute of Technology, Silchar	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	19002	29064
+National Institute of Technology, Silchar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8606	12818
+National Institute of Technology, Silchar	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	14804	20448
+National Institute of Technology, Silchar	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	30626	50716
+National Institute of Technology, Silchar	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	45302	55766
+National Institute of Technology, Silchar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22136	26321
+National Institute of Technology, Silchar	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	28529	35959
+National Institute of Technology, Silchar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24906	33102
+National Institute of Technology, Silchar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	32941	45733
+National Institute of Technology, Silchar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14632	18613
+National Institute of Technology, Silchar	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	20585	25612
+National Institute of Technology, Silchar	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	35585	45435
+National Institute of Technology, Silchar	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	48785	51544
+National Institute of Technology, Silchar	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19159	23084
+National Institute of Technology, Silchar	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	28349	34246
+National Institute of Technology, Silchar	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	45994	59015
+National Institute of Technology, Silchar	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	56992	63651
+National Institute of Technology, Silchar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	26386	35691
+National Institute of Technology, Silchar	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38089	46569

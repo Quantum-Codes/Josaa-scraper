@@ -1,0 +1,59 @@
+National Institute of Technology Patna	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	1845	3801
+National Institute of Technology Patna	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	1563	2078
+National Institute of Technology Patna	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	949	1065
+National Institute of Technology Patna	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	966	1007
+National Institute of Technology Patna	Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	45921	45921
+National Institute of Technology Patna	Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	49967	49967
+National Institute of Technology Patna	Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	45504	45504
+National Institute of Technology Patna	Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	54357	54357
+National Institute of Technology Patna	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	34754	48149
+National Institute of Technology Patna	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	40252	58847
+National Institute of Technology Patna	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	30298	46518
+National Institute of Technology Patna	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52267	57153
+National Institute of Technology Patna	Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	48809	48809
+National Institute of Technology Patna	Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	61391	61391
+National Institute of Technology Patna	Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	44169	46763
+National Institute of Technology Patna	Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	59801	59801
+National Institute of Technology Patna	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10277	17461
+National Institute of Technology Patna	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	21394	27496
+National Institute of Technology Patna	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8125	13964
+National Institute of Technology Patna	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	19333	22489
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	20706	20996
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	35224	35224
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	15278	16359
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	25761	25761
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	18865	19569
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	30679	30679
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	11823	14115
+National Institute of Technology Patna	Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	23821	23821
+National Institute of Technology Patna	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24889	29854
+National Institute of Technology Patna	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39684	43660
+National Institute of Technology Patna	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22074	26512
+National Institute of Technology Patna	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34123	36987
+National Institute of Technology Patna	Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	32624	37322
+National Institute of Technology Patna	Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	46856	46856
+National Institute of Technology Patna	Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	25439	29092
+National Institute of Technology Patna	Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	39588	39588
+National Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	9542	22874
+National Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29953	38037
+National Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	11260	21436
+National Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23340	31549
+National Institute of Technology Patna	Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	25733	27023
+National Institute of Technology Patna	Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	40029	40029
+National Institute of Technology Patna	Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	16290	21954
+National Institute of Technology Patna	Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	32719	32719
+National Institute of Technology Patna	Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	56978	56978
+National Institute of Technology Patna	Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	43896	43896
+National Institute of Technology Patna	Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	61024	61024
+National Institute of Technology Patna	Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	21824	21824
+National Institute of Technology Patna	Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	35451	35451
+National Institute of Technology Patna	Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	14191	14191
+National Institute of Technology Patna	Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	27179	27179
+National Institute of Technology Patna	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	30918	40239
+National Institute of Technology Patna	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	45906	50222
+National Institute of Technology Patna	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	25476	37533
+National Institute of Technology Patna	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	46724	49607
+National Institute of Technology Patna	Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	42816	49138
+National Institute of Technology Patna	Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	60348	60348
+National Institute of Technology Patna	Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	37992	41945
+National Institute of Technology Patna	Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	48377	48377

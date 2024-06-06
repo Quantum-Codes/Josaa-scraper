@@ -1,0 +1,46 @@
+National Institute of Technology Agartala	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	108489	287950
+National Institute of Technology Agartala	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	85416	163769
+National Institute of Technology Agartala	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	51253	56361
+National Institute of Technology Agartala	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	59455	60673
+National Institute of Technology Agartala	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	109154	280589
+National Institute of Technology Agartala	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	156665	230141
+National Institute of Technology Agartala	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	40449	50367
+National Institute of Technology Agartala	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52225	57866
+National Institute of Technology Agartala	Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))	HS	OPEN	Gender-Neutral	250740	316556
+National Institute of Technology Agartala	Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))	OS	OPEN	Gender-Neutral	58684	59062
+National Institute of Technology Agartala	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	146802	245373
+National Institute of Technology Agartala	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	94302	215320
+National Institute of Technology Agartala	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	48024	54537
+National Institute of Technology Agartala	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57218	62841
+National Institute of Technology Agartala	Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	128779	171190
+National Institute of Technology Agartala	Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	28859	33509
+National Institute of Technology Agartala	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24733	55861
+National Institute of Technology Agartala	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39114	56926
+National Institute of Technology Agartala	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14010	20102
+National Institute of Technology Agartala	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	24730	32404
+National Institute of Technology Agartala	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	89979	128660
+National Institute of Technology Agartala	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	107676	125784
+National Institute of Technology Agartala	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	33497	39922
+National Institute of Technology Agartala	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39335	47219
+National Institute of Technology Agartala	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	56386	89878
+National Institute of Technology Agartala	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	61174	92680
+National Institute of Technology Agartala	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22012	27635
+National Institute of Technology Agartala	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34931	41371
+National Institute of Technology Agartala	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	93934	153665
+National Institute of Technology Agartala	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	117799	138512
+National Institute of Technology Agartala	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	26756	39683
+National Institute of Technology Agartala	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45716	48756
+National Institute of Technology Agartala	Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	233128	295549
+National Institute of Technology Agartala	Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	47342	50067
+National Institute of Technology Agartala	Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))	HS	OPEN	Gender-Neutral	154516	242884
+National Institute of Technology Agartala	Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))	OS	OPEN	Gender-Neutral	26228	38103
+National Institute of Technology Agartala	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	128741	180051
+National Institute of Technology Agartala	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	142909	172608
+National Institute of Technology Agartala	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	40622	47237
+National Institute of Technology Agartala	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51325	56551
+National Institute of Technology Agartala	Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))	HS	OPEN	Gender-Neutral	45913	237897
+National Institute of Technology Agartala	Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))	OS	OPEN	Gender-Neutral	30241	46448
+National Institute of Technology Agartala	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	206276	326262
+National Institute of Technology Agartala	Production Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	198832	311950
+National Institute of Technology Agartala	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	49355	58345
+National Institute of Technology Agartala	Production Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57220	63779

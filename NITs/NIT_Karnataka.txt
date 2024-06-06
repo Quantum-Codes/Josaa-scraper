@@ -1,0 +1,44 @@
+National Institute of Technology Karnataka, Surathkal	Artificial Intelligence (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3446	5631
+National Institute of Technology Karnataka, Surathkal	Artificial Intelligence (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	5265	6468
+National Institute of Technology Karnataka, Surathkal	Artificial Intelligence (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2318	2973
+National Institute of Technology Karnataka, Surathkal	Artificial Intelligence (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	4161	4161
+National Institute of Technology Karnataka, Surathkal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10656	22754
+National Institute of Technology Karnataka, Surathkal	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	15473	27910
+National Institute of Technology Karnataka, Surathkal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14070	16357
+National Institute of Technology Karnataka, Surathkal	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	19754	20604
+National Institute of Technology Karnataka, Surathkal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	16360	38203
+National Institute of Technology Karnataka, Surathkal	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44177	50297
+National Institute of Technology Karnataka, Surathkal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	16462	23632
+National Institute of Technology Karnataka, Surathkal	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	24455	33071
+National Institute of Technology Karnataka, Surathkal	Computational and Data Science (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	5697	6155
+National Institute of Technology Karnataka, Surathkal	Computational and Data Science (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	8856	8856
+National Institute of Technology Karnataka, Surathkal	Computational and Data Science (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	3304	3922
+National Institute of Technology Karnataka, Surathkal	Computational and Data Science (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	5501	5501
+National Institute of Technology Karnataka, Surathkal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	1865	3406
+National Institute of Technology Karnataka, Surathkal	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	3032	4267
+National Institute of Technology Karnataka, Surathkal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	966	1984
+National Institute of Technology Karnataka, Surathkal	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	2710	3298
+National Institute of Technology Karnataka, Surathkal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	7705	9789
+National Institute of Technology Karnataka, Surathkal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	7954	11408
+National Institute of Technology Karnataka, Surathkal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	6649	8437
+National Institute of Technology Karnataka, Surathkal	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	9780	12192
+National Institute of Technology Karnataka, Surathkal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	4731	7219
+National Institute of Technology Karnataka, Surathkal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	5839	7007
+National Institute of Technology Karnataka, Surathkal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2306	5596
+National Institute of Technology Karnataka, Surathkal	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	5788	7336
+National Institute of Technology Karnataka, Surathkal	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	3563	5616
+National Institute of Technology Karnataka, Surathkal	Information Technology (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	4420	4969
+National Institute of Technology Karnataka, Surathkal	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	2099	3403
+National Institute of Technology Karnataka, Surathkal	Information Technology (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	4659	5473
+National Institute of Technology Karnataka, Surathkal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	10210	16814
+National Institute of Technology Karnataka, Surathkal	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	17247	27421
+National Institute of Technology Karnataka, Surathkal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	7716	14069
+National Institute of Technology Karnataka, Surathkal	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	17722	21223
+National Institute of Technology Karnataka, Surathkal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	27406	32230
+National Institute of Technology Karnataka, Surathkal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	39644	43291
+National Institute of Technology Karnataka, Surathkal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	18099	25127
+National Institute of Technology Karnataka, Surathkal	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	32869	34865
+National Institute of Technology Karnataka, Surathkal	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	37271	46155
+National Institute of Technology Karnataka, Surathkal	Mining Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	44731	57689
+National Institute of Technology Karnataka, Surathkal	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	21166	30068
+National Institute of Technology Karnataka, Surathkal	Mining Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	36095	41230

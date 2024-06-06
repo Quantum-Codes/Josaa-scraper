@@ -1,0 +1,20 @@
+National Institute of Technology, Uttarakhand	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	56080	64639
+National Institute of Technology, Uttarakhand	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	63607	69235
+National Institute of Technology, Uttarakhand	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	47240	48801
+National Institute of Technology, Uttarakhand	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57958	57958
+National Institute of Technology, Uttarakhand	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	22051	27194
+National Institute of Technology, Uttarakhand	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	29738	29738
+National Institute of Technology, Uttarakhand	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	14432	18447
+National Institute of Technology, Uttarakhand	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	25652	26699
+National Institute of Technology, Uttarakhand	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	39706	51785
+National Institute of Technology, Uttarakhand	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	48762	48762
+National Institute of Technology, Uttarakhand	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	29472	31544
+National Institute of Technology, Uttarakhand	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	39464	39464
+National Institute of Technology, Uttarakhand	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	31473	43593
+National Institute of Technology, Uttarakhand	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	43718	43718
+National Institute of Technology, Uttarakhand	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	19911	25380
+National Institute of Technology, Uttarakhand	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	32884	32884
+National Institute of Technology, Uttarakhand	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	41192	59390
+National Institute of Technology, Uttarakhand	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	52062	52062
+National Institute of Technology, Uttarakhand	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	41479	42700
+National Institute of Technology, Uttarakhand	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51583	51583

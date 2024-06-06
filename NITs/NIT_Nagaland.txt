@@ -1,0 +1,12 @@
+National Institute of Technology Nagaland	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	55663	57852
+National Institute of Technology Nagaland	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	65707	65818
+National Institute of Technology Nagaland	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24324	30401
+National Institute of Technology Nagaland	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	19726	19726
+National Institute of Technology Nagaland	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	42259	47930
+National Institute of Technology Nagaland	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	49965	51561
+National Institute of Technology Nagaland	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	31283	40671
+National Institute of Technology Nagaland	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	49391	49471
+National Institute of Technology Nagaland	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	43420	49013
+National Institute of Technology Nagaland	Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52229	59834
+National Institute of Technology Nagaland	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	50607	53747
+National Institute of Technology Nagaland	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	53096	65536

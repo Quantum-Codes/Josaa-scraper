@@ -1,0 +1,20 @@
+National Institute of Technology Meghalaya	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	142261	142261
+National Institute of Technology Meghalaya	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	257202	257202
+National Institute of Technology Meghalaya	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	50611	55209
+National Institute of Technology Meghalaya	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	64604	64989
+National Institute of Technology Meghalaya	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	48012	48012
+National Institute of Technology Meghalaya	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	88563	88563
+National Institute of Technology Meghalaya	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15911	19175
+National Institute of Technology Meghalaya	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	34378	34378
+National Institute of Technology Meghalaya	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	138346	138346
+National Institute of Technology Meghalaya	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	237583	237583
+National Institute of Technology Meghalaya	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	31901	39316
+National Institute of Technology Meghalaya	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	44588	44588
+National Institute of Technology Meghalaya	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	121773	136987
+National Institute of Technology Meghalaya	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	220988	220988
+National Institute of Technology Meghalaya	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	24586	29028
+National Institute of Technology Meghalaya	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	40341	40341
+National Institute of Technology Meghalaya	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	121811	121811
+National Institute of Technology Meghalaya	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	156857	156857
+National Institute of Technology Meghalaya	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	40305	44699
+National Institute of Technology Meghalaya	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	52381	52381

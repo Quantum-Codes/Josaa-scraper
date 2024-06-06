@@ -1,0 +1,27 @@
+National Institute of Technology Goa	Civil Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Gender-Neutral	75025	114874
+National Institute of Technology Goa	Civil Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Female-only (including Supernumerary)	83651	83651
+National Institute of Technology Goa	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	62197	62197
+National Institute of Technology Goa	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	44498	47155
+National Institute of Technology Goa	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	51203	54176
+National Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Gender-Neutral	17553	25176
+National Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Female-only (including Supernumerary)	21386	21386
+National Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	17250	17250
+National Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	8584	12604
+National Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	15118	17146
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Gender-Neutral	41717	70146
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Female-only (including Supernumerary)	46339	46339
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	45472	45472
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	194400	194400
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22714	24214
+National Institute of Technology Goa	Electrical and Electronics Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	24446	24446
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Gender-Neutral	29451	42485
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Female-only (including Supernumerary)	30479	30479
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24483	24483
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	68268	68268
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15535	19148
+National Institute of Technology Goa	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	21693	21693
+National Institute of Technology Goa	Mechanical Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Gender-Neutral	47647	70297
+National Institute of Technology Goa	Mechanical Engineering (4 Years, Bachelor of Technology)	GO	OPEN	Female-only (including Supernumerary)	78057	78057
+National Institute of Technology Goa	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	46258	51933
+National Institute of Technology Goa	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	27891	35307
+National Institute of Technology Goa	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	37002	45067

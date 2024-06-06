@@ -1,0 +1,48 @@
+National Institute of Technology Hamirpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Gender-Neutral	1680	8952
+National Institute of Technology Hamirpur	Architecture (5 Years, Bachelor of Architecture)	HS	OPEN	Female-only (including Supernumerary)	2689	4868
+National Institute of Technology Hamirpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Gender-Neutral	921	1041
+National Institute of Technology Hamirpur	Architecture (5 Years, Bachelor of Architecture)	OS	OPEN	Female-only (including Supernumerary)	537	863
+National Institute of Technology Hamirpur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	79197	94921
+National Institute of Technology Hamirpur	Chemical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	80333	89754
+National Institute of Technology Hamirpur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	36890	42702
+National Institute of Technology Hamirpur	Chemical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	42763	48834
+National Institute of Technology Hamirpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	52020	87794
+National Institute of Technology Hamirpur	Civil Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	98643	115256
+National Institute of Technology Hamirpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	32678	47137
+National Institute of Technology Hamirpur	Civil Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	55458	57944
+National Institute of Technology Hamirpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	11293	21741
+National Institute of Technology Hamirpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	22031	32375
+National Institute of Technology Hamirpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	9929	12426
+National Institute of Technology Hamirpur	Computer Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	12351	19449
+National Institute of Technology Hamirpur	Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	21829	25679
+National Institute of Technology Hamirpur	Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	35556	35556
+National Institute of Technology Hamirpur	Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	10683	14111
+National Institute of Technology Hamirpur	Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	22409	22409
+National Institute of Technology Hamirpur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	42128	63384
+National Institute of Technology Hamirpur	Electrical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	63462	86404
+National Institute of Technology Hamirpur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	22648	26867
+National Institute of Technology Hamirpur	Electrical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	30082	35463
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24863	44804
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	40825	49298
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	15797	18163
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23888	27068
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Gender-Neutral	45470	50674
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	HS	OPEN	Female-only (including Supernumerary)	50033	50033
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Gender-Neutral	19830	21405
+National Institute of Technology Hamirpur	Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))	OS	OPEN	Female-only (including Supernumerary)	31791	31791
+National Institute of Technology Hamirpur	Engineering Physics (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	85414	98336
+National Institute of Technology Hamirpur	Engineering Physics (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	87674	93565
+National Institute of Technology Hamirpur	Engineering Physics (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	17132	33687
+National Institute of Technology Hamirpur	Engineering Physics (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	38533	40513
+National Institute of Technology Hamirpur	Materials Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	86088	101344
+National Institute of Technology Hamirpur	Materials Science and Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	116693	120480
+National Institute of Technology Hamirpur	Materials Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	43743	49915
+National Institute of Technology Hamirpur	Materials Science and Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	57453	57453
+National Institute of Technology Hamirpur	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	24396	36105
+National Institute of Technology Hamirpur	Mathematics and Computing (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	47135	47179
+National Institute of Technology Hamirpur	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	13095	15463
+National Institute of Technology Hamirpur	Mathematics and Computing (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	23580	25305
+National Institute of Technology Hamirpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Gender-Neutral	59442	75085
+National Institute of Technology Hamirpur	Mechanical Engineering (4 Years, Bachelor of Technology)	HS	OPEN	Female-only (including Supernumerary)	89650	113144
+National Institute of Technology Hamirpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Gender-Neutral	27459	36665
+National Institute of Technology Hamirpur	Mechanical Engineering (4 Years, Bachelor of Technology)	OS	OPEN	Female-only (including Supernumerary)	45715	47358
