@@ -2,6 +2,8 @@
 Not exactly a scraper...
 Created with [@AnmolSinha42](https://github.com/anmolsinha42)
 
+> ⚠️ A better version of the project is built and available here: https://github.com/Quantum-Codes/JoSAA_2024
+
 I required JoSAA data for NITs in excel format for college counselling, However the JoSAA website didn't provide any download button or API.. By making this (within an hour), I was able to export data to an excel file by copying tables and pasting them into the respective files in `NITs` folder.
 I have left the generated files in the folders so nobody has to run it again for 2023 JoSAA statistics (OPEN category, male, HS Trichy)
 This was for my own use, If you want to use it, then you have to modify the code a bit
